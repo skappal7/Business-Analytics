@@ -1,7 +1,7 @@
 
 # Business Analytics Nanodegree
 
-This Udacity program aims to develop foundational data skills. Analyze data using Excel, query a database using SQL and build interactive dashboards and visualizations in Tableau.
+This program aims to develop foundational data skills. Analyze data using Excel, query a database using SQL and build interactive dashboards and visualizations in Tableau.
 
 To successfully complete this course, four mentor reviewed projects are required and one must satisfy the project's rubric.
 
